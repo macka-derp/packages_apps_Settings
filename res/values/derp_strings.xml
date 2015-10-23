@@ -85,4 +85,9 @@
     <!-- Black theme -->
     <string name="system_black_theme_title">Use black theme</string>
     <string name="system_black_theme_summary">Force black background colors</string>
+    
+    <!-- Media art -->
+    <string name="lockscreen_media_art_options_title">Media cover art</string>
+    <string name="media_art_title">Media cover art</string>
+    <string name="media_art_summary">Display media cover art when available</string>
 </resources>
