@@ -22,4 +22,11 @@
     <!-- 4G icon -->
     <string name="show_fourg_icon_title">Show 4G icon</string>
     <string name="show_fourg_icon_summary">Display 4G icon in signal icon instead LTE</string>
+
+    <!-- Add sliders for color balance adjustment via ColorDisplayManager -->
+    <string name="color_mode_balance_category">Color balance</string>
+    <string name="color_mode_balance_red">Red strength</string>
+    <string name="color_mode_balance_green">Green strength</string>
+    <string name="color_mode_balance_blue">Blue strength</string>
+    <string name="keywords_color_balance">color, color balance, color correction, red, green, blue, LiveDisplay</string>
 </resources>
