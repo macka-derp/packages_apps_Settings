@@ -90,4 +90,8 @@
     <string name="lockscreen_media_art_options_title">Media cover art</string>
     <string name="media_art_title">Media cover art</string>
     <string name="media_art_summary">Display media cover art when available</string>
+
+    <!-- General -->
+    <string name="copied_to_clipboard">Copied to clipboard</string>
+    <string name="longpress_to_clipboard">Long-press to copy</string>
 </resources>
