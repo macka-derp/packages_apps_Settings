@@ -14,4 +14,9 @@
     <string name="qs_auto_brightness_title">Auto brightness icon</string>
     <string name="qs_auto_brightness_summary">Show toggle for adaptive brightness near the slider</string>
 
+    <!-- Per-app volume control -->
+    <string name="app_volume">App volume</string>
+    <string name="app_volume_title">Per-app volume control</string>
+    <string name="app_volume_summary">Allow to set different volume levels for each app</string>
+
 </resources>
